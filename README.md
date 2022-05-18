@@ -5,7 +5,6 @@ language: uk
 ## GPT2 trained to generate ЗНО (Ukrainian exam SAT type of thing) essays
 
 Generated texts are not very cohesive yet but I'm working on it. <br />
-The Hosted inference API outputs (on the right) are too short for some reason. Trying to fix it. <br />
 Use the code from the example below. The model takes "ZNOTITLE: your essay title" inputs. 
 
 
